@@ -1,0 +1,1 @@
+"""Leggerprofiel Streamlit-app."""
